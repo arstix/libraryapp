@@ -1,0 +1,46 @@
+.btn-1 {
+  margin-left: 700px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: yellow;
+}
+
+* {
+  font-family: "arial", sans-serif;
+}
+.form-1 {
+  z-index: 4px;
+  position: absolute;
+  margin-left: 305px;
+  background-color: black;
+  color: white;
+}
+
+
+.input-1 {
+  margin-left: 50px;
+}
+
+.form-2 {
+  margin-left: 60px;
+}
+
+.book-1 {
+  border: 6px solid red;
+  background-color: red;
+  color: white;
+}
+
+.header-1{
+  text-align: center;
+  margin-left: 0px;
+  background-color: gray;
+  padding: 30px;
+  margin-top: -10px;
+
+}
+
+.btn-danger {
+  background-color: red;
+  border: 6px solid red;
+}
